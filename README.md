@@ -1,0 +1,2 @@
+This project is an Excel-based interactive sales dashboard that provides a comprehensive overview of sales performance across months, states, sales channels, gender, and age groups. It includes visualizations like bar charts, pie charts, and trend lines to showcase key metrics such as order counts, sales amounts, and order status. Users can interact with the dashboard using slicers to filter data by month, category, and sales channel, making it a useful tool for business analysis, sales insights, and Excel dashboard practice.
+
